@@ -1,0 +1,13 @@
+.redsquare{
+    border: 3px solid red;
+    position: relative ;
+    height: 200px;
+    
+}
+.bluesquare{
+    border: 1px solid blue;
+    text-align: center; 
+    position: absolute;
+    right: 0;
+    padding: 10px;
+}
